@@ -1,0 +1,23 @@
+{
+  "name": "fruitshaven",
+  "version": "1.0.0",
+  "description": "an e-commerce test website",
+  "source": "./src/index.html",
+  "scripts": {
+    "dev": "parcel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashdowdev/fruitshaven.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashdowdev/fruitshaven/issues"
+  },
+  "homepage": "https://github.com/rashdowdev/fruitshaven#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
